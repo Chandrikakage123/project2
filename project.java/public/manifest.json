@@ -1,0 +1,29 @@
+{
+    "navigationBar": {
+      "logo": "upGrad Eshop",
+      "links": [
+        {
+          "text": "Home",
+          "href": "/"
+        },
+        {
+          "text": "Products",
+          "href": "/products"
+        },
+        {
+          "text": "Sign In",
+          "href": "/auth"
+        },
+        {
+          "text": "Sign Up",
+          "href": "/users"
+        }
+      ],
+      "adminLinks": [
+        {
+          "text": "Add Products",
+          "href": "/add-products"
+        }
+      ]
+    }
+  }
